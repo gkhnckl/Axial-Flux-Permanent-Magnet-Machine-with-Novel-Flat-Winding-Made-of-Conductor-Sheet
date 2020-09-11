@@ -16,3 +16,4 @@ You can contact me via e-mail: <gokhancakal.metu@gmail.com>
 - [1 MW direct-drive generator electromagnetic model](Electromagnetic%20analysis%20-%20Maxwell%2019.1) (Maxwell 19.1)
 - [1 MW direct-drive generator structural and thermal model](Structural%20and%20thermal%20-%20SolidWorks%202018/1MW%20direct-drive%20generator) (SolidWorks 2018)
 
+- [Thesis defense presentation](thesis%20defense%20presentation.pdf)
