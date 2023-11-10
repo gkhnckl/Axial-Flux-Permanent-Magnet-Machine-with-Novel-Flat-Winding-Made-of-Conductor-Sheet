@@ -6,7 +6,6 @@ You can contact me via e-mail: <gokhancakal.metu@gmail.com>
 
 ## Quick links
 
-- [My up to date CV](CV%2C%20Cakal.pdf)
 - [MSc thesis](MSc%20Thesis%2C%20Cakal.pdf)
 - [Some photos from manufacturing](Manufacturing%20photos)
 - [Thesis defense presentation](Thesis%20Defense%2C%20Cakal.pdf)
